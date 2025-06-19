@@ -15,6 +15,7 @@
 
 ### 🧠 Core Skills:
 - HTML5, CSS3, JavaScript
+- Node.js, MongoDB, Express.js, React and Redux
 - Python, Flask, Pygame
 - Tailwind CSS, Bootstrap
 - Git & GitHub
@@ -27,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,git,github,figma,vscode,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,python,tailwind,bootstrap,git,github,figma,vscode,firebase&theme=dark" />
 </p>
 
 ---
