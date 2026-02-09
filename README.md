@@ -46,15 +46,6 @@ A growing collection of small, practical projects for learning DOM, canvas, and 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarshamPrem&show_icons=true&theme=merko&count_private=true&bg_color=000000&title_color=00FF9F&icon_color=00FF9F&text_color=FFFFFF" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarshamPrem&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=00FF9F&text_color=FFFFFF" width="48%">
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 📧 Email: njv1901@njv.edu.pk
 - 📷 Instagram: [@populis_adi](https://instagram.com/populis_adi)
