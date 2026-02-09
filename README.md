@@ -47,7 +47,7 @@ A growing collection of small, practical projects for learning DOM, canvas, and 
 ---
 
 ## 🌐 Connect With Me
-- 🌐 Website: [Portfolio Website](amarsham.lovable.app)
+- 🌐 Website: [Portfolio Website](https://amarsham.lovable.app)
 - 📧 Email: njv1901@njv.edu.pk
 - 📷 Instagram: [@populis_adi](https://instagram.com/populis_adi)
 - 🧠 [LeetCode](https://leetcode.com/u/iv9tli7xb6/) | [StackOverflow](https://stackoverflow.com/users/29973450/amarsham-prem)
