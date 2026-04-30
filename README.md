@@ -51,7 +51,8 @@ A growing collection of small, practical projects for learning DOM, canvas, and 
 - 📧 Email: njv1901@njv.edu.pk
 - 📷 Instagram: [@populis_adi](https://instagram.com/populis_adi)
 - 🧠 [LeetCode](https://leetcode.com/u/iv9tli7xb6/) | [StackOverflow](https://stackoverflow.com/users/29973450/amarsham-prem)
-- 🌐 [Dev.to](https://dev.to/amarshamprem)
+- 🤝 [Dev.to](https://dev.to/amarshamprem)
+- [in][LinkedIn](https://www.linkedin.com/in/amarshamprem/)
 
 ---
 
