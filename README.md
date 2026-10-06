@@ -11,15 +11,14 @@ I’m the founder and CEO of **Planvro | Design Better Days**, a product I’m a
 
 - Live app: [designbetterdays.base44.app](https://designbetterdays.base44.app)
 - Mission: create a more intentional daily planning experience that improves focus, productivity, and balance.
-- Current focus: building a clean, user-first product that turns everyday planning into a better habit.
+- Current focus: working on teams feature
 
 ---
 
 ## 🌱 Currently
-- Learning **Python and backend development**
-- Building hands-on **JavaScript & HTML/CSS projects**
-- Exploring **game dev** with Python (`pygame`) and **web frameworks**
+- Learning **REACT**
 - Leading the development of **Planvro | Design Better Days** as founder and CEO
+- Redesigning the njv.edu.pk website for better performance, better UI/UX and overall improvements
 
 ---
 
@@ -35,7 +34,7 @@ I’m the founder and CEO of **Planvro | Design Better Days**, a product I’m a
 ### 🛠️ Tools & Platforms:
 - VS Code, Chrome DevTools, Git Bash
 - Firebase, Netlify (basic deployment)
-- Canva (design), Figma (wireframing basics)
+- Figma (wireframing basics)
 
 ---
 
@@ -74,7 +73,6 @@ A growing collection of small, practical projects for learning DOM, canvas, and 
 
 ## 💡 Let's Collaborate On
 - Web Dev projects (Frontend/Backend)
-- Game dev (Python/Pygame)
 - Open-source or student-led team projects
 - Building and scaling startup ideas like Planvro
 
