@@ -2,13 +2,24 @@
 
 **💻 Full‑Stack Web Developer & Code Problem Solver from Pakistan**
 
+**🚀 Founder & CEO of Planvro | Design Better Days**
+
+---
+
+## 🏢 About Planvro
+I’m the founder and CEO of **Planvro | Design Better Days**, a product I’m actively building to help people plan better, work smarter, and design healthier routines.
+
+- Live app: [designbetterdays.base44.app](https://designbetterdays.base44.app)
+- Mission: create a more intentional daily planning experience that improves focus, productivity, and balance.
+- Current focus: building a clean, user-first product that turns everyday planning into a better habit.
+
 ---
 
 ## 🌱 Currently
 - Learning **Python and backend development**
 - Building hands-on **JavaScript & HTML/CSS projects**
 - Exploring **game dev** with Python (`pygame`) and **web frameworks**
-- Working on and developing **Planvro | Design Better Days** — [designbetterdays.base44.app](https://designbetterdays.base44.app)
+- Leading the development of **Planvro | Design Better Days** as founder and CEO
 
 ---
 
@@ -36,6 +47,12 @@
 
 ## 🚀 Featured Projects
 
+### Planvro | Design Better Days
+A product I’m actively developing and refining to help people plan better days with clarity and intention.
+- Founder & CEO
+- Live app: [designbetterdays.base44.app](https://designbetterdays.base44.app)
+- Focus: productivity, planning, better routines, and elegant user experience
+
 ### [Typing Speed Test](https://github.com/AmarshamPrem/Typing-Speed-Test)
 A sleek typing app that tracks words per minute (WPM) and click speed. Built with HTML, CSS, JS.
 
@@ -44,11 +61,6 @@ A Pygame-based remake of the iconic Flappy Bird with scoring and collision mecha
 
 ### [JavaScript Mini Projects](https://github.com/AmarshamPrem/JavaScript-Projects)
 A growing collection of small, practical projects for learning DOM, canvas, and logic.
-
-### Planvro | Design Better Days
-A product I’m actively developing and refining for a better daily planning and productivity experience.
-- Live app: [designbetterdays.base44.app](https://designbetterdays.base44.app)
-- Focus: cleaner planning, better routines, and a more thoughtful day-to-day workflow.
 
 ---
 
@@ -64,6 +76,7 @@ A product I’m actively developing and refining for a better daily planning and
 - Web Dev projects (Frontend/Backend)
 - Game dev (Python/Pygame)
 - Open-source or student-led team projects
+- Building and scaling startup ideas like Planvro
 
 ---
 
