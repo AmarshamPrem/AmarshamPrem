@@ -8,6 +8,7 @@
 - Learning **Python and backend development**
 - Building hands-on **JavaScript & HTML/CSS projects**
 - Exploring **game dev** with Python (`pygame`) and **web frameworks**
+- Working on and developing **Planvro | Design Better Days** — [designbetterdays.base44.app](https://designbetterdays.base44.app)
 
 ---
 
@@ -43,6 +44,11 @@ A Pygame-based remake of the iconic Flappy Bird with scoring and collision mecha
 
 ### [JavaScript Mini Projects](https://github.com/AmarshamPrem/JavaScript-Projects)
 A growing collection of small, practical projects for learning DOM, canvas, and logic.
+
+### Planvro | Design Better Days
+A product I’m actively developing and refining for a better daily planning and productivity experience.
+- Live app: [designbetterdays.base44.app](https://designbetterdays.base44.app)
+- Focus: cleaner planning, better routines, and a more thoughtful day-to-day workflow.
 
 ---
 
