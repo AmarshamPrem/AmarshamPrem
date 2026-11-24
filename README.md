@@ -39,7 +39,7 @@ I’m the founder and CEO of **Planvro | Design Better Days**, a product I’m a
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,python,tailwind,bootstrap,git,github,figma,vscode,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,python,git,github,figma,vscode&theme=dark" />
 </p>
 
 ---
